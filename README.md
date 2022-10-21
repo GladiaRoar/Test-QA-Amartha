@@ -1,2 +1,2 @@
 # Test-QA-Amartha
-MVN test
+Open with IntellijIdea > ctrl+shift+f10
